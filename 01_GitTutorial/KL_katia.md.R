@@ -1,0 +1,3 @@
+#Like about GitHub: able to revert changes easily and find old versions (seems hard to lose your work), also like that it can be compatible with R
+#Dislike about GitHub: steep learning curve, lots of steps make it challenging to remember the correct order when starting out
+#Question about GitHub: I am still unsure how to start a new file on GitHub, or is it better to import existing data files into GitHub?
