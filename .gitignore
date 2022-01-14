@@ -1,3 +1,6 @@
+# to get rid of .DS_store in mac os systems
+.DS_store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
