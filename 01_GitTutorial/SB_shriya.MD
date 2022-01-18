@@ -1,0 +1,4 @@
+1. I like that GitHub makes it easier to collaborate code with others. 
+2. I don't like that GitHub takes some time to get used to. 
+3. Do we have to edit files that we save in our directory or can we make changes straight from our github account?
+   - *Actuall, both is possible. To make some simple edits to e.g. readme file, it is totally fine to use the web interface. However, if you are programming python or matlab, and you already should be, you better use your local folder. This way you can see all your changes in the staging window, ready to commit (or roll back). Uploading your files from time to time is definitely not recommended (although better than nothing I guess). If you made some changes through github.com though, your Git client wont allow to **push** untill you **pull** all newer changes back to your local repository. This way it prevents any potential conflicts in the remote repository.*
