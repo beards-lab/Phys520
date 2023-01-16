@@ -1,0 +1,3 @@
+1. I like how GitHub keeps all commits even if they eventually have to be reverted or are no longer used. I also like how it has messages for every commit to limit confusion
+2. I don't like how GitHub has several places to be used. I have only used the web interface before and am only used to using it. 
+3. How does GitHub maintain an accurate copy of a file if multiple people are editing it at the same time?
