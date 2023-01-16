@@ -9,3 +9,4 @@ If two people have worked on same part of the code and pushed it, then the later
 3) Question About GitHub?
 
 How to avoid merge conflict while working on Git
+
