@@ -1,0 +1,18 @@
+1) What you like about GitHub?
+
+GitHub seems to be a very great software for collaboration and code sharing. I think what I like the most about GitHub is that as a student I can get free access to already developed tools.
+
+2) What you dislike about GutHub?
+
+As a novice user of GitHub, I think it appears to be a little intimidating and I am a bit overwhelmed by all the functionality that is available.
+
+
+
+3) Question
+
+When I try to create a new text file in a repository, for example a README.md file, the file is still showing as README.md.txt. What can I do differently to get rid of the .txt on those files? 
+
+It is my understanding that GitHub is not the best tool to use for secure/private data. What other options are available for collaborating and sharing code if working on project with more sensitive data?
+
+
+Bonus: Extra credit for using GiT throughout the course!
