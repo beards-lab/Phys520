@@ -20,26 +20,36 @@ Clone https://github.com/beards-lab/Phys520
 
 > I don't like how GitHub has several places to be used. I have only used the web interface before and am only used to using it. 
 
+That is fine for submitting readmes and other text files. But what if (and that is the most common use case) you need to run your source code locally on your computer?
+
 > When I try to create a new text file in a repository, for example a README.md file, the file is still showing as README.md.txt. What can I do differently to get rid of the .txt on those files? 
+
+That is your computer issue - see e.g. https://knowledge.autodesk.com/support/autocad/learn-explore/caas/sfdcarticles/sfdcarticles/How-to-enable-hidden-file-extensions-in-Windows.html
 
 ### Security
 > It is my understanding that GitHub is not the best tool to use for secure/private data. What other options are available for collaborating and sharing code if working on project with more sensitive data?
 
 Good thinking. You can keep the repository private or private within the team. For added security of really sensitive data, you can use your own git servers or dedicated hosting or gitlab.
 
+
+### Merging and conflicts
 > How does GitHub maintain an accurate copy of a file if multiple people are editing it at the same time?
 
+It is not - all versions are independent and equally important. The issue comes around when *merging* those changes. Any modified or added line is merged automatically, unless two people commited change to the same line iof code. Then the one merging has to make a decision.
 
+> How to avoid merge conflict while working on Git?
 
+Talk to each other :] But do not be afraid of conflicts, they happen and are usually easy to resolve.
 
+> What if when you push the newly edited file and found there is an updated one after your pull request?
 
-> How to avoid merge conflict while working on Git
-
+### Usage
 > To what extent will people actually utilize GitHub? (It needs to create a repository first, add a new file, write in the file and then have to commit and push.)
 
 > Does any new repository need a new empty folder? Can I save all the repositories under a collection folder?
 
-> What if when you push the newly edited file and found there is an updated one after your pull request?
+You can have a big repository with dozens of folders.
+
 
 > If someone modifies code/ a file on Github proper. Do the changes it still have to go through the same committal barriers as they would when committing from a local repository?
 
