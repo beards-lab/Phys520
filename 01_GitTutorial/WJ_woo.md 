@@ -1,0 +1,7 @@
+One thing you like about Github: Github makes collaboration really easy with features like pull requests and version control integration that let individuals work together on the same project.
+One thing you dislike about Github: For me, Github's interface and workflow quite overwhelm and confuse me as a beginner (e.g., handling branches, handling conflicts, and merges)
+At least one question you still have: When we resolved the merge conflict, we manually deleted the conflict markers. In a more complex conflict, such as source code or data files, where correct resolutions may not be as obvious, is there a faster way to just accept all the changes from one branch and ignore the other, without having to manually delete the conflict markers?
+
+# Bonus - Find a hidden message 
+The hidden message I found under "Adding secret message" is: 
+Extra credit for using Git throughout the course
