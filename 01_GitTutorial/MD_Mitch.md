@@ -1,0 +1,3 @@
+1) I love how easy github is to use and how easy it makes makes version control. I also really like how simple it is to revert changes and keep functional versions of the program active while actively updating or fixing previous versions.
+2) The only thing I dislike about it is its somewhat complicated hidden structures. When you have a number of branches and forks active the structure can get messy fast and merging these back into a main version can be complicated.
+3) My biggest question is what is the purpose of a pull request when a merge call exists and it consolidates the branches for you?
